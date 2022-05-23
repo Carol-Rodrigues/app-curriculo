@@ -1,3 +1,14 @@
 # app-curriculo
 
-![image](https://user-images.githubusercontent.com/81321335/169882898-f1649fba-49ea-40d4-8a18-393e4b6b8d01.png)
+Curso DIO: Criando aplicações móveis multiplataforma com React Native.
+
+![image](https://user-images.githubusercontent.com/81321335/169883216-f48dc35f-25b5-4d4e-9965-d62143fe3ad6.png)
+
+# Conteúdo
+
+- Libs: react-native-vector-icons
+- Icons: FontAwesome
+- StyleSheet
+- TouchableOpacity
+- Components
+- Flexbox
